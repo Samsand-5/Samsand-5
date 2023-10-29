@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyodip Sutradhar</h1>
 <h3 align="center">An android developer from India</h3>
 
-- 🔭 I’m currently working on **WallPaper App**
+- 🔭 I’m currently working on **WallPaper App & TikTok App**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
