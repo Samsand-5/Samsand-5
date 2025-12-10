@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soumyodip Sutradhar</h1>
 <h3 align="center">An android developer from India</h3>
 
-- 🔭 I’m currently working on **on an Android project**
+- 🔭 I’m currently working on **on an Backend projects**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Spring AI**
 
-- 💬 Ask me about **Android, DSA, Kotlin, Java, C++**
+- 💬 Ask me about **Android, DSA, Kotlin, Java, C++, Spring Boot, Spring FrameWork, Spring Data, Spring Cloud, Spring Security, OAuth 2.0, Microservices**
 
 - 📫 How to reach me **soumyodipsutra@gmail.com**
 
